@@ -1,0 +1,22 @@
+form{
+    margin:0 auto;
+    width: 280px;
+    height: auto;
+    border-style: solid;
+    border-color: lightgreen;
+    padding: auto auto;
+    padding-left: 2cm;
+    padding-right: 2cm;
+    padding-bottom: 1cm;
+}
+input{
+    margin-top: 15px;
+}
+.s{
+    color: green;
+}
+
+img{
+    height: 5cm;
+    width: 6cm;
+}
